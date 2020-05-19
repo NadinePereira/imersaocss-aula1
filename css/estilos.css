@@ -1,0 +1,45 @@
+body{ 
+    background-image:url('https://i.pinimg.com/originals/1e/d3/b3/1ed3b3618fa21b098a1b38a53ac01221.jpg');
+    background-size: cover;
+  }
+  
+  .menu{
+    background:white;
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  a{
+    color:black;
+    font-family:gill-sans;
+    font-variant: small-caps;
+    font-size:20px;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color:white;
+    font-family:gill-sans;
+    font-variant: small-caps;
+    text-align:center;
+  }
+  
+  .site-subtitle{
+    color:black;
+    font-style:italic
+  }
+  
+  
+  
